@@ -1,4 +1,6 @@
-## Hi there 👋
+👨🏻‍🎓Estudante de Desenvolvimento de Sistemas na ETEC / Focado em Python / Preparando-se para o mercado de trabalho da tecnologia
+
+
 
 <!--
 **Carlos-tm07/Carlos-tm07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
